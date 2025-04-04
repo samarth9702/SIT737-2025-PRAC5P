@@ -6,6 +6,7 @@ services:
     ports:
       - "3003:3003"
     restart: always
+    
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:3003"]
       interval: 30s
