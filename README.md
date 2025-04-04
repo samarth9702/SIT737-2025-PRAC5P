@@ -1,6 +1,6 @@
 
 
-# 🧮 Simple Calculator Microservice
+# 🧮 Advance Calculator Microservice
 
 This project is a basic calculator microservice built using **Node.js** and **Express**. It supports **addition**, **subtraction**, **multiplication**, and **division** through REST API endpoints. It also includes **logging** using the Winston library and a **simple web UI**.
 
