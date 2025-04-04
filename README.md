@@ -22,6 +22,7 @@ This project is a basic calculator microservice built using **Node.js** and **Ex
     └── error.log 
 ├── public/ │ 
     └── index.html 
+├── docker-compose.yml
 ├── Dockerfile 
 ├── logger.js 
 ├── server.js 
